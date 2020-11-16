@@ -1,0 +1,134 @@
+{
+
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991003884029706445",
+            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445",
+            "item": [
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616270006445",
+                    "label": "LB L Yn 54/4",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-06-09",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-06-09",
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616250006445",
+                    "label": "LB L Yn 54/4+1",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B1",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-05-25",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-05-25",
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616240006445",
+                    "label": "LB L Yn 54/4+2",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B2",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-05-25",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-05-25",
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616230006445",
+                    "label": "LB L Yn 54/4+3",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B3",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-05-25",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-05-25",
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616220006445",
+                    "label": "LB L Yn 54/4+4",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B4",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-06-24",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-06-24",
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616290006445",
+                    "label": "Freihand Yn 1952/4",
+                    "storage": {
+                        "content": "Zentralbibliothek",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Freihand%20Yn%201952%2F4",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "2020-05-25",
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "2020-05-25",
+                            "service": "loan"
+                        }
+                    ]
+                }
+            ],
+            "requested": "LOCAL:991003884029706445"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund (Alma)",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2020-11-16T16:46:00+0100"
+
+}
