@@ -1,0 +1,37 @@
+{
+
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991006992339706445",
+            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991006992339706445",
+            "item": [
+                {
+                    "available": [
+                        {
+                            "service": "presentation"
+                        },
+                        {
+                            "service": "loan"
+                        }
+                    ],
+                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991006992339706445#2335818150006445",
+                    "label": "A 6931",
+                    "storage": {
+                        "content": "Zentralbibliothek / Freihand",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Freihand%20%40",
+                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                    }
+                }
+            ],
+            "requested": "HBZ:HT002135652"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund (Alma)",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2020-11-19T16:27:40+0100"
+
+}
