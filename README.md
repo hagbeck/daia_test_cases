@@ -4,7 +4,7 @@ This is a project including test cases for the DAIA Service of University Librar
 
 ## LOCAL:991003884029706445
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=HBZ%3AHT002135652
+* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003884029706445
 * expected: LOCAL_991003884029706445.json
 
 Anmerkungen:
