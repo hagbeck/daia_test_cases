@@ -8,10 +8,10 @@
             "item": [
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616270006445",
-                    "label": "LB L Yn 54/4",
+                    "label": "L Yn 54/4",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4",
+                        "content": "Zentralbibliothek / LB",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
@@ -27,95 +27,105 @@
                 },
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616250006445",
-                    "label": "LB L Yn 54/4+1",
+                    "label": "L Yn 54/4+1",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B1",
+                        "content": "Zentralbibliothek / LB",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B1",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
                 },
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616240006445",
-                    "label": "LB L Yn 54/4+2",
+                    "label": "L Yn 54/4+2",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B2",
+                        "content": "Zentralbibliothek / LB",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B2",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
                 },
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616230006445",
-                    "label": "LB L Yn 54/4+3",
+                    "label": "L Yn 54/4+3",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B3",
+                        "content": "Zentralbibliothek / LB",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B3",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
                 },
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616220006445",
-                    "label": "LB L Yn 54/4+4",
+                    "label": "L Yn 54/4+4",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=LB%20L%20Yn%2054%2F4%2B4",
+                        "content": "Zentralbibliothek / LB",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Yn%2054%2F4%2B4",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
                         {
                             "expected": "2020-06-24",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-06-24",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
                 },
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616290006445",
-                    "label": "Freihand Yn 1952/4",
+                    "label": "Yn 1952/4",
                     "storage": {
-                        "content": "Zentralbibliothek",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Freihand%20Yn%201952%2F4",
+                        "content": "Zentralbibliothek / Freihand",
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Yn%201952%2F4",
                         "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
                     },
                     "unavailable": [
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-05-25",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
