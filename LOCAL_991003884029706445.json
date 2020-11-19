@@ -17,10 +17,12 @@
                     "unavailable": [
                         {
                             "expected": "2020-06-09",
+                            "queue": 0,
                             "service": "presentation"
                         },
                         {
                             "expected": "2020-06-09",
+                            "queue": 0,
                             "service": "loan"
                         }
                     ]
