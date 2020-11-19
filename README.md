@@ -9,8 +9,8 @@ Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei m
 
 Anmerkungen:
 
-* leere `queue` bei `unavailable`
-* `label`: "Abteilung" des Standorts in der Signatur anstatt in `storage`
+* Es fehlt: `unavailable.queue`
+* `storage.label`: "Abteilung" des Standorts in der Signatur anstatt in `storage`
 * `storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren. Bisher wurde Link für das Exemplar passend aus Sunrise geliefert. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Suche nach einer Lösung läuft ...
 
 ## HBZ:HT002135652
@@ -20,5 +20,5 @@ Anmerkungen:
 
 Anmerkungen:
 
-* `label`: liefert falsche Signatur "Freihand @"; erwartet: "Freihand A 6931"
+* `storage.label`: liefert falsche Signatur "Freihand @"; erwartet: "Freihand A 6931"
 * `storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren. Bisher wurde Link für das Exemplar passend aus Sunrise geliefert. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Suche nach einer Lösung läuft ...
