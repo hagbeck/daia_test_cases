@@ -10,8 +10,11 @@ Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei m
 Anmerkungen:
 
 * Es fehlt: `unavailable.queue`
-* `storage.label`: "Abteilung" des Standorts in der Signatur anstatt in `storage`
-* `storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren. Bisher wurde Link für das Exemplar passend aus Sunrise geliefert. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Suche nach einer Lösung läuft ...
+* `item.label`: "Abteilung" des Standorts in der Signatur anstatt in `storage`
+* `item.storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren, da er passend aus Sunrise geliefert wurde. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Wir verzichten daher auf `item.storage.href`
+* `item.department`: soll die Daten für `library` in Alma liefern
+  * auf `item.department.href` wird ebenfalls verzichtet
+* `item.storage`: soll die Daten für `location` in Alma liefern
 
 ## HBZ:HT002135652
 
@@ -20,5 +23,8 @@ Anmerkungen:
 
 Anmerkungen:
 
-* `storage.label`: liefert falsche Signatur "Freihand @"; erwartet: "Freihand A 6931"
-* `storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren. Bisher wurde Link für das Exemplar passend aus Sunrise geliefert. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Suche nach einer Lösung läuft ...
+* `item.label`: liefert falsche Signatur "Freihand @"; erwartet: "Freihand A 6931"
+* `item.storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren, da er passend aus Sunrise geliefert wurde. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Wir verzichten daher auf `item.storage.href`
+* `item.department`: soll die Daten für `library` in Alma liefern
+  * auf `item.department.href` wird ebenfalls verzichtet
+* `item.storage`: soll die Daten für `location` in Alma liefern
