@@ -4,15 +4,18 @@
     "document": [
         {
             "href": "https://www.ub.tu-dortmund.de/katalog/titel/991003884029706445",
-            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445",
+            "id": "https://data.ub.tu-dortmund.de/resource/991003884029706445",
             "item": [
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616270006445",
                     "label": "L Yn 54/4",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / LB",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Lehrbücher",
+                        "id": "https://data.ub.tu-dortmund.de/resource/LB"
                     },
                     "unavailable": [
                         {
@@ -28,12 +31,15 @@
                     ]
                 },
                 {
-                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616250006445",
+                    "id": "https://data.ub.tu-dortmund.de/resource/991003884029706445#2335616250006445",
                     "label": "L Yn 54/4+1",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / LB",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B1",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Lehrbücher",
+                        "id": "https://data.ub.tu-dortmund.de/resource/LB"
                     },
                     "unavailable": [
                         {
@@ -51,10 +57,13 @@
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616240006445",
                     "label": "L Yn 54/4+2",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / LB",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B2",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Lehrbücher",
+                        "id": "https://data.ub.tu-dortmund.de/resource/LB"
                     },
                     "unavailable": [
                         {
@@ -72,10 +81,13 @@
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616230006445",
                     "label": "L Yn 54/4+3",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / LB",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=L%20Yn%2054%2F4%2B3",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Lehrbücher",
+                        "id": "https://data.ub.tu-dortmund.de/resource/LB"
                     },
                     "unavailable": [
                         {
@@ -93,10 +105,13 @@
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616220006445",
                     "label": "L Yn 54/4+4",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / LB",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Yn%2054%2F4%2B4",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Lehrbücher",
+                        "id": "https://data.ub.tu-dortmund.de/resource/LB"
                     },
                     "unavailable": [
                         {
@@ -114,10 +129,13 @@
                 {
                     "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003884029706445#2335616290006445",
                     "label": "Yn 1952/4",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    }
                     "storage": {
-                        "content": "Zentralbibliothek / Freihand",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Yn%201952%2F4",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
+                        "content": "Freihandbestand",
+                        "id": "https://data.ub.tu-dortmund.de/resource/Freihand"
                     },
                     "unavailable": [
                         {
