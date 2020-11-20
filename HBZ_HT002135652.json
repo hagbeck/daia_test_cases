@@ -4,7 +4,7 @@
     "document": [
         {
             "href": "https://www.ub.tu-dortmund.de/katalog/titel/991006992339706445",
-            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991006992339706445",
+            "id": "https://data.ub.tu-dortmund.de/resource/991006992339706445",
             "item": [
                 {
                     "available": [
@@ -15,13 +15,16 @@
                             "service": "loan"
                         }
                     ],
-                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991006992339706445#2335818150006445",
+                    "id": "https://data.ub.tu-dortmund.de/resource/991006992339706445#2335818150006445",
                     "label": "A 6931",
+                    "department": {
+                        "content": "Zentralbibliothek",
+                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                    },
                     "storage": {
-                        "content": "Zentralbibliothek / Freihand",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Freihand%20%40",
-                        "id": "https://www.ub.tu-dortmund.de/#Zentralbibliothek"
-                    }
+                        "content": "Freihandbestand",
+                        "id": "https://data.ub.tu-dortmund.de/resource/Freihand"
+                    },
                 }
             ],
             "requested": "HBZ:HT002135652"
