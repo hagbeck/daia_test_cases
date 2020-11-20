@@ -12,7 +12,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Lehrbücher",
                         "id": "https://data.ub.tu-dortmund.de/resource/LB"
@@ -36,7 +36,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Lehrbücher",
                         "id": "https://data.ub.tu-dortmund.de/resource/LB"
@@ -60,7 +60,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Lehrbücher",
                         "id": "https://data.ub.tu-dortmund.de/resource/LB"
@@ -84,7 +84,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Lehrbücher",
                         "id": "https://data.ub.tu-dortmund.de/resource/LB"
@@ -108,7 +108,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Lehrbücher",
                         "id": "https://data.ub.tu-dortmund.de/resource/LB"
@@ -132,7 +132,7 @@
                     "department": {
                         "content": "Zentralbibliothek",
                         "id": "https://data.ub.tu-dortmund.de/resource/ZB"
-                    }
+                    },
                     "storage": {
                         "content": "Freihandbestand",
                         "id": "https://data.ub.tu-dortmund.de/resource/Freihand"
