@@ -4,6 +4,8 @@ Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei m
 
 ## LOCAL:991003884029706445
 
+aka HT016599403
+
 * current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003884029706445
 * expected: LOCAL_991003884029706445.json
 
