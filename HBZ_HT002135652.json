@@ -3,8 +3,8 @@
     "$schema": "http://gbv.github.io/daia/daia.schema.json",
     "document": [
         {
-            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991006992339706445",
-            "id": "https://data.ub.tu-dortmund.de/resource/991006992339706445",
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991007110519706445",
+            "id": "https://data.ub.tu-dortmund.de/resource/991007110519706445",
             "item": [
                 {
                     "available": [
@@ -15,7 +15,7 @@
                             "service": "loan"
                         }
                     ],
-                    "id": "https://data.ub.tu-dortmund.de/resource/991006992339706445#2335818150006445",
+                    "id": "https://data.ub.tu-dortmund.de/resource/991007110519706445#2335818150006445",
                     "label": "A 6931",
                     "department": {
                         "content": "Zentralbibliothek",
@@ -24,7 +24,7 @@
                     "storage": {
                         "content": "Freihandbestand",
                         "id": "https://data.ub.tu-dortmund.de/resource/Freihand"
-                    },
+                    }
                 }
             ],
             "requested": "HBZ:HT002135652"
