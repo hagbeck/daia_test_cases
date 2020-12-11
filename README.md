@@ -2,12 +2,12 @@
 
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
-## LOCAL:991003884029706445
+## LOCAL:991003731929706445
 
 aka HT016599403
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003884029706445
-* expected: LOCAL_991003884029706445.json
+* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003731929706445
+* expected: LOCAL_991003731929706445.json
 
 Anmerkungen:
 
@@ -19,6 +19,8 @@ Anmerkungen:
 * `item.storage`: soll die Daten für `location` in Alma liefern
 
 ## HBZ:HT002135652
+
+aka 991007110519706445
 
 * current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=HBZ%3AHT002135652
 * expected: HBZ_HT002135652.json
