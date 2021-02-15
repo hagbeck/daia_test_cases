@@ -2,6 +2,45 @@
 
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
+## LOCAL:991003557889706445
+
+Bei diesem Bestand ist die Ausgabe der `public_note` aus dem `item_data` sehr relevant. Diese Information sollte als `limitation` zu den `service`s 
+angegeben werden:
+
+```
+{
+   "id": "...",
+   "items": [
+      {
+         "id": "...",
+         "available": [
+            {
+               "service": "presentation",
+               "limitation": [
+                  {
+                     "content": "FootNoteExt: Medienschrank"
+                  }
+               ]
+            },
+            {
+               "service": "loan",
+               "limitation": [
+                  {
+                     "content": "FootNoteExt: Medienschrank"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
+```
+
+* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003557889706445
+* expected: LOCAL_991003557889706445.json
+
+
+
 ## LOCAL:991003731929706445
 
 aka HT016599403
