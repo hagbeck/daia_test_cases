@@ -10,10 +10,20 @@
                 {
                     "available": [
                         {
-                            "service": "presentation"
+                            "service": "presentation",
+                            "limitation": [
+                               {
+                                   "content": "FootNoteExt: Medienschrank"
+                               }
+                            ]
                         },
                         {
-                            "service": "loan"
+                            "service": "loan",
+                            "limitation": [
+                               {
+                                   "content": "FootNoteExt: Medienschrank"
+                               }
+                            ]
                         }
                     ],
                     "department": {
