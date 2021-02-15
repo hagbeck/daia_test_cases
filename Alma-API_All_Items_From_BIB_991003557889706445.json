@@ -1,0 +1,136 @@
+{
+    "item": [
+        {
+            "bib_data": {
+                "mms_id": "991003557889706445",
+                "title": "Spannungen Musik im Kraftwerk Heimbach ; Kammermusik ; Lars Vogt & Friends ; [live recordings 2005 - 2010]",
+                "author": "Vogt, Lars",
+                "issn": null,
+                "isbn": null,
+                "complete_edition": "Limited ed., promotional copy, not for sale",
+                "network_number": [
+                    "(DE-601)659016192",
+                    "(DE-599)GBV659016192",
+                    "(OCoLC)838109307",
+                    "(DE-605)HT016828586",
+                    "(EXLNZ-49HBZ_NETWORK)990187175740206441"
+                ],
+                "place_of_publication": "Cologne",
+                "date_of_publication": "c 2011",
+                "publisher_const": "Deutschlandradio",
+                "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003557889706445"
+            },
+            "holding_data": {
+                "holding_id": "22107638650006445",
+                "call_number_type": {
+                    "value": "#",
+                    "desc": "Keine Informationen bereitgestellt"
+                },
+                "call_number": "MUY O.SON 9",
+                "accession_number": "",
+                "copy_id": "",
+                "in_temp_location": false,
+                "temp_library": {
+                    "value": null,
+                    "desc": null
+                },
+                "temp_location": {
+                    "value": null,
+                    "desc": null
+                },
+                "temp_call_number_type": {
+                    "value": "",
+                    "desc": null
+                },
+                "temp_call_number": "",
+                "temp_policy": {
+                    "value": "",
+                    "desc": null
+                },
+                "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003557889706445/holdings/22107638650006445"
+            },
+            "item_data": {
+                "pid": "23107638620006445",
+                "barcode": "20032630",
+                "creation_date": "2020-11-26Z",
+                "modification_date": "2021-02-11Z",
+                "base_status": {
+                    "value": "1",
+                    "desc": "Exemplar ist am Standort"
+                },
+                "awaiting_reshelving": false,
+                "physical_material_type": {
+                    "value": "BOOK",
+                    "desc": "Buch"
+                },
+                "policy": {
+                    "value": "",
+                    "desc": null
+                },
+                "provenance": {
+                    "value": "",
+                    "desc": null
+                },
+                "po_line": "",
+                "is_magnetic": false,
+                "arrival_date": "2020-11-25Z",
+                "year_of_issue": "",
+                "enumeration_a": "",
+                "enumeration_b": "",
+                "enumeration_c": "",
+                "enumeration_d": "",
+                "enumeration_e": "",
+                "enumeration_f": "",
+                "enumeration_g": "",
+                "enumeration_h": "",
+                "chronology_i": "",
+                "chronology_j": "",
+                "chronology_k": "",
+                "chronology_l": "",
+                "chronology_m": "",
+                "description": "",
+                "receiving_operator": "import",
+                "process_type": {
+                    "value": "",
+                    "desc": null
+                },
+                "inventory_number": "BMG-3889",
+                "inventory_price": "",
+                "library": {
+                    "value": "EFB",
+                    "desc": "Emil-Figge-Bibliothek"
+                },
+                "location": {
+                    "value": "Freihand",
+                    "desc": "Freihandbestand"
+                },
+                "alternative_call_number": "",
+                "alternative_call_number_type": {
+                    "value": "",
+                    "desc": null
+                },
+                "storage_location_id": "",
+                "pages": "",
+                "pieces": "1",
+                "public_note": "FootNoteExt: Medienschrank",
+                "fulfillment_note": "",
+                "internal_note_1": "ClassificationNo: 0 | SISIS-Magazindrucker: 0 | HBZ01: HT016828586 | Keine Beilagen: 1",
+                "internal_note_2": "Fernleihkonditionen: 0 | Sigel: 290 | Klassifikation: 0 | Altersbegrenzung: 0 | SISIS-Ausleihzähler Migrationsjahr: 0 | SISIS-Ausleihzähler Vor-Migrationsjahr: 0",
+                "internal_note_3": "SISIS-Ausleihzähler vorletztes Migrationsjahr: 0 | SISIS-Vormerkzähler Migrationsjahr: 0 | SISIS-Buchdaten-Aufnahmedatum: 2011-06-22",
+                "statistics_note_1": "",
+                "statistics_note_2": "",
+                "statistics_note_3": "",
+                "requested": false,
+                "edition": null,
+                "imprint": null,
+                "language": null,
+                "physical_condition": {
+                    "value": null,
+                    "desc": null
+                }
+            },
+            "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/991003557889706445/holdings/22107638650006445/items/23107638620006445"
+        }
+    ],
+    "total_record_count": 1
+}
