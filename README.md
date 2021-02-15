@@ -2,7 +2,14 @@
 
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
-## LOCAL:991003557889706445
+## LOCAL:991012201282806445 - case: electronic portfolio
+
+* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
+* expected: LOCAL_991012201282806445.json
+
+Offene Frage in der UB Dortmund: Wie kennzeichnen wir den "Zugriff nur im Hochschulnetz"?
+
+## LOCAL:991003557889706445 - case: public note
 
 Bei diesem Bestand ist die Ausgabe der `public_note` aus dem `item_data` sehr relevant. Diese Information sollte als `limitation` zu den `service`s 
 angegeben werden:
@@ -41,7 +48,7 @@ angegeben werden:
 
 
 
-## LOCAL:991003731929706445
+## LOCAL:991003731929706445 - case: physical item
 
 aka HT016599403
 
@@ -57,7 +64,7 @@ Anmerkungen:
   * auf `item.department.href` wird ebenfalls verzichtet
 * `item.storage`: soll die Daten für `location` in Alma liefern
 
-## HBZ:HT002135652
+## HBZ:HT002135652 - case: physical item
 
 aka 991007110519706445
 
