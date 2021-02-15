@@ -1,0 +1,27 @@
+{
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "about": "Publishing and using cultural heritage linked data on the semantic Web, Hyvönen, Eero. c2012",
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991012201282806445",
+            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991012201282806445",
+            "item": [
+                {
+                    "available": [
+                        {
+                            "href": "https://hbz-ubdo.primo.exlibrisgroup.com/view/uresolver/49HBZ_UBD/openurl?u.ignore_date_coverage=true&Force_direct=true&rft.mms_id=991012201282806445",
+                            "service": "presentation"
+                        }
+                    ]
+                }
+            ],
+            "requested": "LOCAL:991012201282806445"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund (Alma)",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2021-02-15T15:56:48+0100"
+}
