@@ -7,7 +7,10 @@ Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei m
 * current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
 * expected: LOCAL_991012201282806445.json
 
-Offene Frage in der UB Dortmund: Wie kennzeichnen wir den "Zugriff nur im Hochschulnetz"?
+Offene Fragen in der UB Dortmund: 
+
+* Wie kennzeichnen wir den "Zugriff nur im Hochschulnetz"?
+* Auf welcher Basis (z.B. Selektionskennzeichen/Sogel des Pakets, Name des Interface oder der E-Collection) können wir in `storage` Angaben zur Kollektion/Plattform transportieren?
 
 ## LOCAL:991003557889706445 - case: public note
 
