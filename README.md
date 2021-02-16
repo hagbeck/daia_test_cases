@@ -2,6 +2,33 @@
 
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
+## ... - case: items for IZ-only BIBS
+
+Beispiel: Schließfächer
+
+
+## ... - case: requested items / queue > 0
+
+...
+
+
+## ... - case: Überordnung eines mehrbändigen Werks
+
+...
+
+
+## LOCAL:991007227919706445 - case: print holdings for journal
+
+Ziel ist hier, die Bestandsinformationen zu gedruckten Zeitschriften aus Alma zu holen. Der Grund dafür liegt darin, dass mit dem Umstieg auf Alma, die Bestandsinformationen in der ZDB und damit auch in "Journals Online & Print" bis auf Weiteres nicht mehr aktuell sein werden. 
+
+* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991007227919706445
+* expected: ...
+
+Offene Frage:
+
+* Wie bilden wir den Bestand ab?
+
+
 ## LOCAL:991012201282806445 - case: electronic portfolio
 
 * current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
