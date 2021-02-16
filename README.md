@@ -2,9 +2,18 @@
 
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
+## ... - Wegweiser-URL im `storage`
+
+* current: http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=Fach%202.002
+* expected: ...
+
+
 ## ... - case: items for IZ-only BIBS
 
 Beispiel: Schließfächer
+
+* LOCAL:991007227919706445 (EFB)
+* LOCAL:991000015419706445 (ZB)
 
 
 ## ... - case: requested items / queue > 0
