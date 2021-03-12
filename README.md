@@ -40,7 +40,7 @@ Offene Frage:
 
 ## LOCAL:991012201282806445 - case: electronic portfolio
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
+* current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
 * expected: LOCAL_991012201282806445.json
 
 Offene Fragen in der UB Dortmund: 
@@ -82,7 +82,7 @@ angegeben werden:
 }
 ```
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003557889706445
+* current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003557889706445
 * expected: LOCAL_991003557889706445.json
 
 
@@ -91,12 +91,12 @@ angegeben werden:
 
 aka HT016599403
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003731929706445
+* current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991003731929706445
 * expected: LOCAL_991003731929706445.json
 
 Anmerkungen:
 
-* Es fehlt: `unavailable.queue`
+* Es fehlen: `unavailable.queue` und `unavailable.exprected`
 * `item.label`: "Abteilung" des Standorts in der Signatur anstatt in `storage`
 * `item.storage.href`: Der Link zum Lageplan wird so wohl nicht mehr funktionieren, da er passend aus Sunrise geliefert wurde. Das gibt es in Alma wohl so nur noch für Primo-Kunden. Wir verzichten daher auf `item.storage.href`
 * `item.department`: soll die Daten für `library` in Alma liefern
@@ -107,7 +107,7 @@ Anmerkungen:
 
 aka 991007110519706445
 
-* current: https://tub-dortmundalma--daia-paia.devel.digibib.net/daia?id=HBZ%3AHT002135652
+* current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=HBZ%3AHT002135652
 * expected: HBZ_HT002135652.json
 
 Anmerkungen:
