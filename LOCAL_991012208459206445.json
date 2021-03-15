@@ -1,0 +1,42 @@
+{
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "about": "Flüchtlingsrecht in Theorie und Praxis 5 Jahre Refugee Law Clinic an der Justus-Liebig-Universität Gießen, Tiedemann, Paul 2014",
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991012208459206445",
+            "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459206445",
+            "item": [
+                {
+                    "department": {
+                        "content": "Zentralbibliothek"
+                    },
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459206445#23110009720006445",
+                    "label": "Fn 54321TEST",
+                    "storage": {
+                        "content": "Freihandbestand"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "unknown",
+                            "queue": 1,
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "unknown",
+                            "queue": 1,
+                            "service": "loan"
+                        }
+                    ]
+                }
+            ],
+            "requested": "LOCAL:991012208459206445"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2021-03-15T17:57:37+0100"
+
+}
