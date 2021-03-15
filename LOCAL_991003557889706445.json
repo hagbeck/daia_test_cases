@@ -5,7 +5,7 @@
         {
             "about": "Spannungen Musik im Kraftwerk Heimbach ; Kammermusik ; Lars Vogt & Friends ; [live recordings 2005 - 2010], Vogt, Lars c 2011",
             "href": "https://www.ub.tu-dortmund.de/katalog/titel/991003557889706445",
-            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003557889706445",
+            "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991003557889706445",
             "item": [
                 {
                     "available": [
@@ -29,11 +29,10 @@
                     "department": {
                         "content": "Emil-Figge-Bibliothek"
                     },
-                    "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991003557889706445#23107638620006445",
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991003557889706445#23107638620006445",
                     "label": "MUY O.SON 9",
                     "storage": {
-                        "content": "Freihandbestand",
-                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=MUY%20O.SON%209"
+                        "content": "Freihandbestand"
                     }
                 }
             ],
@@ -41,7 +40,7 @@
         }
     ],
     "institution": {
-        "content": "TU Dortmund (Alma)",
+        "content": "TU Dortmund",
         "href": "https://www.ub.tu-dortmund.de/",
         "id": "https://lobid.org/organisation/DE-290"
     },
