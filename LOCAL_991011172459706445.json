@@ -1,0 +1,28 @@
+{
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "about": "Richtlinien zur Manuskriptgestaltung, Pfetsch, Jan [2019]",
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991011172459706445",
+            "id": "https://tub-dortmundalma--daia-paia.devel.digibib.net/daia/edition/991011172459706445",
+            "item": [
+                {
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991011172459706445#53109270260006445",
+                    "available": [
+                        {
+                            "href": "https://hbz-ubdo.primo.exlibrisgroup.com/view/uresolver/49HBZ_UBD/openurl?u.ignore_date_coverage=true&Force_direct=true&rft.mms_id=991011172459706445",
+                            "service": "presentation"
+                        }
+                    ]
+                }
+            ],
+            "requested": "LOCAL:991011172459706445"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2021-02-15T15:56:48+0100"
+}
