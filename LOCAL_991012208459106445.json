@@ -1,0 +1,86 @@
+{
+    "$schema": "http://gbv.github.io/daia/daia.schema.json",
+    "document": [
+        {
+            "about": "Warburgs Schnecke kulturwissenschaftliche Skizzen, Warnke, Martin [2020]",
+            "href": "https://www.ub.tu-dortmund.de/katalog/titel/991012208459106445",
+            "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459106445",
+            "item": [
+                {
+                    "department": {
+                        "content": "Zentralbibliothek"
+                    },
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459106445#23110959810006445",
+                    "label": "L Lo 767TEST+1",
+                    "storage": {
+                        "content": "Lehrbücher"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "loan"
+                        }
+                    ]
+                },
+                {
+                    "available": [
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "loan"
+                        }
+                    ],
+                    "department": {
+                        "content": "Zentralbibliothek"
+                    },
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459106445#23110959800006445",
+                    "label": "L Lo 767TEST+2",
+                    "storage": {
+                        "content": "Lehrbücher"
+                    }
+                },
+                {
+                    "department": {
+                        "content": "Zentralbibliothek"
+                    },
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991012208459106445#23110009660006445",
+                    "label": "L Lo 767TEST",
+                    "storage": {
+                        "content": "Lehrbücher"
+                    },
+                    "unavailable": [
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "presentation"
+                        },
+                        {
+                            "expected": "unknown",
+                            "queue": 2,
+                            "service": "loan"
+                        }
+                    ]
+                }
+            ],
+            "requested": "LOCAL:991012208459106445"
+        }
+    ],
+    "institution": {
+        "content": "TU Dortmund",
+        "href": "https://www.ub.tu-dortmund.de/",
+        "id": "https://lobid.org/organisation/DE-290"
+    },
+    "timestamp": "2021-03-15T18:01:03+0100"
+
+}
