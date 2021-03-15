@@ -1,10 +1,10 @@
 {
-
     "$schema": "http://gbv.github.io/daia/daia.schema.json",
     "document": [
         {
+            "about": "Merkwürdige Leute Bibliothek und Bibliothekar in der Schönen Literatur, Döhmer, Klaus 1984",
             "href": "https://www.ub.tu-dortmund.de/katalog/titel/991007110519706445",
-            "id": "https://data.ub.tu-dortmund.de/resource/991007110519706445",
+            "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991007110519706445",
             "item": [
                 {
                     "available": [
@@ -15,15 +15,14 @@
                             "service": "loan"
                         }
                     ],
-                    "id": "https://data.ub.tu-dortmund.de/resource/991007110519706445#2335818150006445",
-                    "label": "A 6931",
                     "department": {
-                        "content": "Zentralbibliothek",
-                        "id": "https://data.ub.tu-dortmund.de/resource/ZB"
+                        "content": "Zentralbibliothek"
                     },
+                    "id": "https://tub-dortmund--daia-paia.devel.digibib.net/daia/edition/991007110519706445#2379297310006445",
+                    "label": "A 6931",
                     "storage": {
                         "content": "Freihandbestand",
-                        "id": "https://data.ub.tu-dortmund.de/resource/Freihand"
+                        "href": "http://www.ub.tu-dortmund.de/cgi-bin/ub/wegweiser.pl?z=0&a=1&s=A%206931"
                     }
                 }
             ],
@@ -31,10 +30,9 @@
         }
     ],
     "institution": {
-        "content": "TU Dortmund (Alma)",
+        "content": "TU Dortmund",
         "href": "https://www.ub.tu-dortmund.de/",
         "id": "https://lobid.org/organisation/DE-290"
     },
-    "timestamp": "2020-11-19T16:27:40+0100"
-
+    "timestamp": "2021-03-15T17:43:59+0100"
 }
