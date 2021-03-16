@@ -58,7 +58,10 @@ Offene Frage:
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
 * expected: LOCAL_991012201282806445.json
 
-**Problem:** keine ID
+**Probleme:** 
+
+* keine ID
+* keine Angabe zur zugehörigen Kollektionen (als `storage`); die API liefert zwar die Service- und Collection-ID, aber keine weiteren Angaben.
 
 
 ## LOCAL:991011172459706445 - case: electronic portfolio (2)
@@ -66,7 +69,11 @@ Offene Frage:
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991011172459706445
 * expected: LOCAL_991011172459706445.json
 
-**Problem:** keine ID und keine URL
+**Probleme:** 
+
+* keine ID
+* keine URL
+* keine Angabe zur zugehörigen Kollektionen (als `storage`); die API liefert zwar die Service- und Collection-ID, aber keine weiteren Angaben.
 
 
 ## LOCAL:991003557889706445 - case: public note
