@@ -3,7 +3,7 @@
 Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei mit dem erwarteten JSON angegeben. Ferner werden die offenen Punkte durch Anmerkungen erläutert.
 
 
-### LOCAL:991000024009706445 (EFB)
+### :x: LOCAL:991000024009706445 (EFB)
 
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991000024009706445
 
@@ -13,14 +13,14 @@ Anmerkungen:
 * `item.storage.href`: Wir verzichten daher auf `item.storage.href`
 
 
-### LOCAL:991000015419706445 (ZB)
+### :x: LOCAL:991000015419706445 (ZB)
 
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991000015419706445
 
 Anmerkungen:
 
 * Es fehlen: `unavailable.queue` und `unavailable.exprected`
-* `item.storage.href`: Wir verzichten daher auf `item.storage.href`
+* :heavy_check_mark: `item.storage.href`: Wir verzichten daher auf `item.storage.href`
 * Abfrage dauert recht lange, sind aber auch ein paar "items" ;-)
 
 ## ... - case: Überordnung eines mehrbändigen Werks
@@ -53,7 +53,7 @@ Offene Frage:
 * Wie bilden wir den Bestand ab?
 
 
-## LOCAL:991012201282806445 - case: electronic portfolio (1)
+## :x: LOCAL:991012201282806445 - case: electronic portfolio (1)
 
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991012201282806445
 * expected: LOCAL_991012201282806445.json
@@ -64,7 +64,7 @@ Offene Frage:
 * keine Angabe zur zugehörigen Kollektionen (als `storage`); die API liefert zwar die Service- und Collection-ID, aber keine weiteren Angaben.
 
 
-## LOCAL:991011172459706445 - case: electronic portfolio (2)
+## :x: LOCAL:991011172459706445 - case: electronic portfolio (2)
 
 * current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991011172459706445
 * expected: LOCAL_991011172459706445.json
@@ -76,7 +76,7 @@ Offene Frage:
 * keine Angabe zur zugehörigen Kollektionen (als `storage`); die API liefert zwar die Service- und Collection-ID, aber keine weiteren Angaben.
 
 
-## LOCAL:991003557889706445 - case: public note
+## :x: LOCAL:991003557889706445 - case: public note
 
 **Problem:** Bei diesem Bestand ist die Ausgabe der `public_note` aus dem `item_data` sehr relevant. Diese Information sollte als `limitation` zu den `service`s 
 angegeben werden:
@@ -115,7 +115,7 @@ angegeben werden:
 
 
 
-## LOCAL:991003731929706445 - case: physical item
+## :x: LOCAL:991003731929706445 - case: physical item
 
 aka HT016599403
 
@@ -125,10 +125,10 @@ aka HT016599403
 Anmerkungen:
 
 * Es fehlen: `unavailable.queue` und `unavailable.exprected`
-* `item.storage.href`: Wir verzichten daher auf `item.storage.href`
+* :heavy_check_mark: `item.storage.href`: Wir verzichten daher auf `item.storage.href`
 
 
-## HBZ:HT002135652 - case: physical item
+## :heavy_check_mark: HBZ:HT002135652 - case: physical item
 
 aka 991007110519706445
 
