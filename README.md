@@ -9,7 +9,7 @@ Es wird jeweils ein Link zum aktuellen Ergebnis des "hbz-DAIA" sowie die Datei m
 
 Anmerkungen:
 
-* Es fehlen: `unavailable.queue` und `unavailable.exprected`
+* Es fehlen: `unavailable.queue` und `unavailable.expected`
 * `item.storage.href`: Wir verzichten daher auf `item.storage.href`
 
 
@@ -19,13 +19,19 @@ Anmerkungen:
 
 Anmerkungen:
 
-* Es fehlen: `unavailable.queue` und `unavailable.exprected`
+* Es fehlen: `unavailable.queue` und `unavailable.expected`
 * :heavy_check_mark: `item.storage.href`: Wir verzichten daher auf `item.storage.href`
 * Abfrage dauert recht lange, sind aber auch ein paar "items" ;-)
 
 ## ... - case: Überordnung eines mehrbändigen Werks
 
-...
+"bestellt versus Überordnung" -> keine Unterscheidung möglich!
+
+* current: https://tub-dortmund--daia-paia.devel.digibib.net/daia?id=LOCAL%3A991005635079706445|LOCAL%3A991007939079706445
+  * Überordnung: 991005635079706445
+  * Bestellung: 991007939079706445
+* expected: `unavailable` mit `limitation.content=bestellt` oder `limitation.content=aqusition` für bestellte Medien
+
 
 ## LOCAL:991012208459206445 - eine Vormerkung
 
